@@ -1,0 +1,6 @@
+.table_break_word {
+	table-layout:fixed;
+}
+.table_break_word tr td{
+	word-wrap:break-word;
+}
